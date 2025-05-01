@@ -1,4 +1,6 @@
-# Solana Security Dashboard
+# Solana Security Dashboard 
+https://solana-sec-dashboard.vercel.app
+
 
 A comprehensive security dashboard for the Solana ecosystem, based on the Superteam Security handbook. This dashboard provides on-chain analytics of major exploits, live hack tracking, and resources for users and developers.
 
